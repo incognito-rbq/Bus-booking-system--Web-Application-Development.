@@ -1,0 +1,952 @@
+[{
+  "_id": {
+    "$oid": "696e5417891935bc1fbc518e"
+  },
+  "busId": "BUS001",
+  "driverId": {
+    "$oid": "696e4dd6ab9091e292bf2ad4"
+  },
+  "capacity": 50,
+  "class": "premium",
+  "seats": [
+    {
+      "seatNumber": 1,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc518f"
+      }
+    },
+    {
+      "seatNumber": 2,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc5190"
+      }
+    },
+    {
+      "seatNumber": 3,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc5191"
+      }
+    },
+    {
+      "seatNumber": 4,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc5192"
+      }
+    },
+    {
+      "seatNumber": 5,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc5193"
+      }
+    },
+    {
+      "seatNumber": 6,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc5194"
+      }
+    },
+    {
+      "seatNumber": 7,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc5195"
+      }
+    },
+    {
+      "seatNumber": 8,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc5196"
+      }
+    },
+    {
+      "seatNumber": 9,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc5197"
+      }
+    },
+    {
+      "seatNumber": 10,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc5198"
+      }
+    },
+    {
+      "seatNumber": 11,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc5199"
+      }
+    },
+    {
+      "seatNumber": 12,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc519a"
+      }
+    },
+    {
+      "seatNumber": 13,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc519b"
+      }
+    },
+    {
+      "seatNumber": 14,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc519c"
+      }
+    },
+    {
+      "seatNumber": 15,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc519d"
+      }
+    },
+    {
+      "seatNumber": 16,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc519e"
+      }
+    },
+    {
+      "seatNumber": 17,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc519f"
+      }
+    },
+    {
+      "seatNumber": 18,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51a0"
+      }
+    },
+    {
+      "seatNumber": 19,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51a1"
+      }
+    },
+    {
+      "seatNumber": 20,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51a2"
+      }
+    },
+    {
+      "seatNumber": 21,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51a3"
+      }
+    },
+    {
+      "seatNumber": 22,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51a4"
+      }
+    },
+    {
+      "seatNumber": 23,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51a5"
+      }
+    },
+    {
+      "seatNumber": 24,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51a6"
+      }
+    },
+    {
+      "seatNumber": 25,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51a7"
+      }
+    },
+    {
+      "seatNumber": 26,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51a8"
+      }
+    },
+    {
+      "seatNumber": 27,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51a9"
+      }
+    },
+    {
+      "seatNumber": 28,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51aa"
+      }
+    },
+    {
+      "seatNumber": 29,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51ab"
+      }
+    },
+    {
+      "seatNumber": 30,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51ac"
+      }
+    },
+    {
+      "seatNumber": 31,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51ad"
+      }
+    },
+    {
+      "seatNumber": 32,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51ae"
+      }
+    },
+    {
+      "seatNumber": 33,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51af"
+      }
+    },
+    {
+      "seatNumber": 34,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51b0"
+      }
+    },
+    {
+      "seatNumber": 35,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51b1"
+      }
+    },
+    {
+      "seatNumber": 36,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51b2"
+      }
+    },
+    {
+      "seatNumber": 37,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51b3"
+      }
+    },
+    {
+      "seatNumber": 38,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51b4"
+      }
+    },
+    {
+      "seatNumber": 39,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51b5"
+      }
+    },
+    {
+      "seatNumber": 40,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51b6"
+      }
+    },
+    {
+      "seatNumber": 41,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51b7"
+      }
+    },
+    {
+      "seatNumber": 42,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51b8"
+      }
+    },
+    {
+      "seatNumber": 43,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51b9"
+      }
+    },
+    {
+      "seatNumber": 44,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51ba"
+      }
+    },
+    {
+      "seatNumber": 45,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51bb"
+      }
+    },
+    {
+      "seatNumber": 46,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51bc"
+      }
+    },
+    {
+      "seatNumber": 47,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51bd"
+      }
+    },
+    {
+      "seatNumber": 48,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51be"
+      }
+    },
+    {
+      "seatNumber": 49,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51bf"
+      }
+    },
+    {
+      "seatNumber": 50,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e5417891935bc1fbc51c0"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e4fa24b25b7e8bdd4f212"
+  },
+  "busId": "BUS-001",
+  "driverId": {
+    "$oid": "696e4e064b25b7e8bdd4f209"
+  },
+  "capacity": 40,
+  "class": "standard",
+  "seats": [
+    {
+      "seatNumber": 1,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f213"
+      }
+    },
+    {
+      "seatNumber": 2,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f214"
+      }
+    },
+    {
+      "seatNumber": 3,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f215"
+      }
+    },
+    {
+      "seatNumber": 4,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f216"
+      }
+    },
+    {
+      "seatNumber": 5,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f217"
+      }
+    },
+    {
+      "seatNumber": 6,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f218"
+      }
+    },
+    {
+      "seatNumber": 7,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f219"
+      }
+    },
+    {
+      "seatNumber": 8,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f21a"
+      }
+    },
+    {
+      "seatNumber": 9,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f21b"
+      }
+    },
+    {
+      "seatNumber": 10,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f21c"
+      }
+    },
+    {
+      "seatNumber": 11,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f21d"
+      }
+    },
+    {
+      "seatNumber": 12,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f21e"
+      }
+    },
+    {
+      "seatNumber": 13,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f21f"
+      }
+    },
+    {
+      "seatNumber": 14,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f220"
+      }
+    },
+    {
+      "seatNumber": 15,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f221"
+      }
+    },
+    {
+      "seatNumber": 16,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f222"
+      }
+    },
+    {
+      "seatNumber": 17,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f223"
+      }
+    },
+    {
+      "seatNumber": 18,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f224"
+      }
+    },
+    {
+      "seatNumber": 19,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f225"
+      }
+    },
+    {
+      "seatNumber": 20,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f226"
+      }
+    },
+    {
+      "seatNumber": 21,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f227"
+      }
+    },
+    {
+      "seatNumber": 22,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f228"
+      }
+    },
+    {
+      "seatNumber": 23,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f229"
+      }
+    },
+    {
+      "seatNumber": 24,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f22a"
+      }
+    },
+    {
+      "seatNumber": 25,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f22b"
+      }
+    },
+    {
+      "seatNumber": 26,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f22c"
+      }
+    },
+    {
+      "seatNumber": 27,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f22d"
+      }
+    },
+    {
+      "seatNumber": 28,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f22e"
+      }
+    },
+    {
+      "seatNumber": 29,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f22f"
+      }
+    },
+    {
+      "seatNumber": 30,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f230"
+      }
+    },
+    {
+      "seatNumber": 31,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f231"
+      }
+    },
+    {
+      "seatNumber": 32,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f232"
+      }
+    },
+    {
+      "seatNumber": 33,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f233"
+      }
+    },
+    {
+      "seatNumber": 34,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f234"
+      }
+    },
+    {
+      "seatNumber": 35,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f235"
+      }
+    },
+    {
+      "seatNumber": 36,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f236"
+      }
+    },
+    {
+      "seatNumber": 37,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f237"
+      }
+    },
+    {
+      "seatNumber": 38,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f238"
+      }
+    },
+    {
+      "seatNumber": 39,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f239"
+      }
+    },
+    {
+      "seatNumber": 40,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e4fa24b25b7e8bdd4f23a"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e503d4b25b7e8bdd4f266"
+  },
+  "busId": "BUS-003",
+  "driverId": {
+    "$oid": "696e4e954b25b7e8bdd4f20d"
+  },
+  "capacity": 45,
+  "class": "premium",
+  "seats": [
+    {
+      "seatNumber": 1,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f267"
+      }
+    },
+    {
+      "seatNumber": 2,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f268"
+      }
+    },
+    {
+      "seatNumber": 3,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f269"
+      }
+    },
+    {
+      "seatNumber": 4,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f26a"
+      }
+    },
+    {
+      "seatNumber": 5,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f26b"
+      }
+    },
+    {
+      "seatNumber": 6,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f26c"
+      }
+    },
+    {
+      "seatNumber": 7,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f26d"
+      }
+    },
+    {
+      "seatNumber": 8,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f26e"
+      }
+    },
+    {
+      "seatNumber": 9,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f26f"
+      }
+    },
+    {
+      "seatNumber": 10,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f270"
+      }
+    },
+    {
+      "seatNumber": 11,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f271"
+      }
+    },
+    {
+      "seatNumber": 12,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f272"
+      }
+    },
+    {
+      "seatNumber": 13,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f273"
+      }
+    },
+    {
+      "seatNumber": 14,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f274"
+      }
+    },
+    {
+      "seatNumber": 15,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f275"
+      }
+    },
+    {
+      "seatNumber": 16,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f276"
+      }
+    },
+    {
+      "seatNumber": 17,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f277"
+      }
+    },
+    {
+      "seatNumber": 18,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f278"
+      }
+    },
+    {
+      "seatNumber": 19,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f279"
+      }
+    },
+    {
+      "seatNumber": 20,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f27a"
+      }
+    },
+    {
+      "seatNumber": 21,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f27b"
+      }
+    },
+    {
+      "seatNumber": 22,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f27c"
+      }
+    },
+    {
+      "seatNumber": 23,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f27d"
+      }
+    },
+    {
+      "seatNumber": 24,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f27e"
+      }
+    },
+    {
+      "seatNumber": 25,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f27f"
+      }
+    },
+    {
+      "seatNumber": 26,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f280"
+      }
+    },
+    {
+      "seatNumber": 27,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f281"
+      }
+    },
+    {
+      "seatNumber": 28,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f282"
+      }
+    },
+    {
+      "seatNumber": 29,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f283"
+      }
+    },
+    {
+      "seatNumber": 30,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f284"
+      }
+    },
+    {
+      "seatNumber": 31,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f285"
+      }
+    },
+    {
+      "seatNumber": 32,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f286"
+      }
+    },
+    {
+      "seatNumber": 33,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f287"
+      }
+    },
+    {
+      "seatNumber": 34,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f288"
+      }
+    },
+    {
+      "seatNumber": 35,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f289"
+      }
+    },
+    {
+      "seatNumber": 36,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f28a"
+      }
+    },
+    {
+      "seatNumber": 37,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f28b"
+      }
+    },
+    {
+      "seatNumber": 38,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f28c"
+      }
+    },
+    {
+      "seatNumber": 39,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f28d"
+      }
+    },
+    {
+      "seatNumber": 40,
+      "isAvailable": true,
+      "_id": {
+        "$oid": "696e503d4b25b7e8bdd4f28e"
+      }
+    }
+  ],
+  "__v": 0
+}]

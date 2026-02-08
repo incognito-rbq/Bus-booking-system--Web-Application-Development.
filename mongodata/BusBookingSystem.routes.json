@@ -1,0 +1,173 @@
+[{
+  "_id": {
+    "$oid": "696e604b09c0bb88cfb40418"
+  },
+  "routeId": "RT001",
+  "source": "Lahore",
+  "destination": "Islamabad",
+  "distance": 300,
+  "estimatedDuration": 5,
+  "stops": [
+    {
+      "name": "Faisalabad",
+      "arrivalTime": "10:00",
+      "sequence": 1,
+      "_id": {
+        "$oid": "696e604b09c0bb88cfb40419"
+      }
+    },
+    {
+      "name": "Sargodha",
+      "arrivalTime": "12:00",
+      "sequence": 2,
+      "_id": {
+        "$oid": "696e604b09c0bb88cfb4041a"
+      }
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-01-19T16:48:11.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e605609c0bb88cfb4041d"
+  },
+  "routeId": "RT002",
+  "source": "Karachi",
+  "destination": "Peshawar",
+  "distance": 1500,
+  "estimatedDuration": 24,
+  "stops": [
+    {
+      "name": "Hyderabad",
+      "arrivalTime": "14:00",
+      "sequence": 1,
+      "_id": {
+        "$oid": "696e605609c0bb88cfb4041e"
+      }
+    },
+    {
+      "name": "Sukkur",
+      "arrivalTime": "18:00",
+      "sequence": 2,
+      "_id": {
+        "$oid": "696e605609c0bb88cfb4041f"
+      }
+    },
+    {
+      "name": "Multan",
+      "arrivalTime": "22:00",
+      "sequence": 3,
+      "_id": {
+        "$oid": "696e605609c0bb88cfb40420"
+      }
+    },
+    {
+      "name": "Lahore",
+      "arrivalTime": "02:00",
+      "sequence": 4,
+      "_id": {
+        "$oid": "696e605609c0bb88cfb40421"
+      }
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-01-19T16:48:22.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e606109c0bb88cfb40424"
+  },
+  "routeId": "RT003",
+  "source": "Quetta",
+  "destination": "Karachi",
+  "distance": 800,
+  "estimatedDuration": 12,
+  "stops": [
+    {
+      "name": "Sibi",
+      "arrivalTime": "08:00",
+      "sequence": 1,
+      "_id": {
+        "$oid": "696e606109c0bb88cfb40425"
+      }
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-01-19T16:48:33.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e606a09c0bb88cfb40428"
+  },
+  "routeId": "RT004",
+  "source": "Islamabad",
+  "destination": "Islamabad",
+  "distance": 350,
+  "estimatedDuration": 6,
+  "stops": [
+    {
+      "name": "Rawalpindi",
+      "arrivalTime": "09:00",
+      "sequence": 1,
+      "_id": {
+        "$oid": "696e606a09c0bb88cfb40429"
+      }
+    },
+    {
+      "name": "Taxila",
+      "arrivalTime": "10:00",
+      "sequence": 2,
+      "_id": {
+        "$oid": "696e606a09c0bb88cfb4042a"
+      }
+    },
+    {
+      "name": "Hassan Abdal",
+      "arrivalTime": "11:00",
+      "sequence": 3,
+      "_id": {
+        "$oid": "696e606a09c0bb88cfb4042b"
+      }
+    }
+  ],
+  "isActive": false,
+  "createdAt": {
+    "$date": "2026-01-19T16:48:42.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e69a13fffa3c843dea487"
+  },
+  "routeId": "RT005",
+  "source": "Multan",
+  "destination": "Faisalabad",
+  "distance": 150,
+  "estimatedDuration": 3,
+  "stops": [
+    {
+      "name": "Khanewal",
+      "arrivalTime": "11:00",
+      "sequence": 1,
+      "_id": {
+        "$oid": "696e69a13fffa3c843dea488"
+      }
+    }
+  ],
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-01-19T17:28:01.630Z"
+  },
+  "__v": 0
+}]

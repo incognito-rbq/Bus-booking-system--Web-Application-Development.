@@ -1,0 +1,288 @@
+[{
+  "_id": {
+    "$oid": "696e4dc6ab9091e292bf2ad2"
+  },
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "phone": "+1234567890",
+  "password": "$2b$10$mJsKSom6e/NR5NqFXG0oruAmsKoCHH7/Z5K5Czi8GvXqat/x/uaHW",
+  "age": 25,
+  "gender": "male",
+  "role": "customer",
+  "isVerified": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-19T15:29:10.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e4dd6ab9091e292bf2ad4"
+  },
+  "name": "Jane Smith",
+  "email": "jane.smith@example.com",
+  "phone": "0987654321",
+  "password": "$2b$10$1Cg4Bj.KupDek3CkeuRM3ubnavsiuvAMOceMzl7mkIyQxI0y3.tXm",
+  "age": 30,
+  "gender": "female",
+  "role": "driver",
+  "isVerified": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-19T15:29:26.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e4df5ab9091e292bf2ad6"
+  },
+  "name": "Admin User",
+  "email": "admin@example.com",
+  "phone": "+1122334455",
+  "password": "$2b$10$yyD0uR5Y6f9kyLEg4WH1TO.YiNRxNSiqHLiZhOM5zNpMjRhDKiRfy",
+  "age": 35,
+  "gender": "male",
+  "role": "admin",
+  "isVerified": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-19T15:29:57.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695943bd539a6f59aecafe41"
+  },
+  "name": "Admin One",
+  "email": "admin.micheal@example.com",
+  "phone": "+919876543210",
+  "password": "$2b$10$JkU9j3XPJD6oZ/rEj4RRZ.Xv2Siw7P8gFK3NPdqNcjhmnxOvJYmKq",
+  "age": 35,
+  "gender": "male",
+  "role": "admin",
+  "isVerified": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-03T16:28:45.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69594740227c666fea681232"
+  },
+  "name": "Admin Two",
+  "email": "admin2@example.com",
+  "phone": "+919876543211",
+  "password": "$2b$10$Oq1oiM86kgyD2f7.NOSd2e2mCJOsQaxfLnQLJA70FFbX.lQgIDoIu",
+  "age": 38,
+  "gender": "female",
+  "role": "admin",
+  "isVerified": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-03T16:43:44.406Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69594936227c666fea681239"
+  },
+  "name": "John Customer",
+  "email": "john.customer1@example.com",
+  "phone": "+919876543212",
+  "password": "$2b$10$gbQ2r/GzmOoeV/hY02TLaudcAifdzkLEpaqcnbCeZefOhTCL4ft6m",
+  "age": 25,
+  "gender": "male",
+  "role": "customer",
+  "isVerified": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-03T16:52:06.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695952bbebb65c90f9d2c99a"
+  },
+  "name": "Jane Customer",
+  "email": "jane.customer2@example.com",
+  "phone": "+919876543213",
+  "password": "$2b$10$TTxHZ17hOhzJgCKd.236QOOnjMJQqXWYKfBbv4AbsOpj64nLaL3B.",
+  "age": 28,
+  "gender": "female",
+  "role": "customer",
+  "isVerified": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-03T17:32:43.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695952bbebb65c90f9d2c99b"
+  },
+  "name": "Alex Customer",
+  "email": "alexxx.micheal@example.com",
+  "phone": "+9231234567",
+  "password": "$2b$10$gxdW0KpL.2/Mbd9Lw8BvfeRhQ2U7fdRHtDsvph3sexC./lzulAXlS",
+  "age": 31,
+  "gender": "male",
+  "role": "customer",
+  "isVerified": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-01-03T17:32:43.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695952bbebb65c90f9d2c99c"
+  },
+  "name": "Emily Customer",
+  "email": "emily.customer4@example.com",
+  "phone": "+919876543215",
+  "password": "$2b$10$I5EY1zZjNa8WXuiVueofluTRkYSaapQePF1E.ar4UjCgdnxaOw.u.",
+  "age": 22,
+  "gender": "female",
+  "role": "customer",
+  "isVerified": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-03T17:32:43.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695952bbebb65c90f9d2c99d"
+  },
+  "name": "Robert Customer",
+  "email": "robert.customer5@example.com",
+  "phone": "+919876543216",
+  "password": "$2b$10$MYR4MrBQVWpNewuuYpKYI.S9Q8iWGWfVcd7xg3B63KK9Feo0Hg1Ty",
+  "age": 29,
+  "gender": "male",
+  "role": "customer",
+  "isVerified": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-03T17:32:43.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695952bbebb65c90f9d2c99e"
+  },
+  "name": "Sophia Customer",
+  "email": "sophia.customer6@example.com",
+  "phone": "+919876543217",
+  "password": "$2b$10$D/6EHApPAfTf25aeCyAoIOTxa4uRWvOwhhGoV5TMoRhPKJ2PbrP/S",
+  "age": 26,
+  "gender": "female",
+  "role": "customer",
+  "isVerified": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-03T17:32:43.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695952bbebb65c90f9d2c99f"
+  },
+  "name": "Daniel Customer",
+  "email": "daniel.customer7@example.com",
+  "phone": "+919876543218",
+  "password": "$2b$10$AXdR4lxZHerR8vP4k56vq.kcRj7tYkCkRm0t/vXiIwodcYlg8FBXe",
+  "age": 34,
+  "gender": "male",
+  "role": "customer",
+  "isVerified": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-03T17:32:43.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695952bbebb65c90f9d2c9a0"
+  },
+  "name": "Olivia Customer",
+  "email": "olivia.customer8@example.com",
+  "phone": "+919876543219",
+  "password": "$2b$10$a6Zfx5Z..dEbEKyyfJGEGurm7GV/fs5/EtuNnY5WHwLqOVBXMZROW",
+  "age": 24,
+  "gender": "female",
+  "role": "customer",
+  "isVerified": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-03T17:32:43.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695952bbebb65c90f9d2c9a1"
+  },
+  "name": "Driver Mike",
+  "email": "mike.driver1@example.com",
+  "phone": "+919876543220",
+  "password": "$2b$10$5cD1hyByFrD7PtVXgt1bO.j.Fun4lRIIi5mtA3uTv0u.jlpQeTav2",
+  "age": 40,
+  "gender": "male",
+  "role": "driver",
+  "isVerified": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-03T17:32:43.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695952bbebb65c90f9d2c9a2"
+  },
+  "name": "Driver Sarah",
+  "email": "sarah.driver2@example.com",
+  "phone": "+919876543221",
+  "password": "$2b$10$2xEPWikQa9jUborL7poU6OyJiGRmLvJEoa5UQW.GkjIr.T.Z0jZjW",
+  "age": 36,
+  "gender": "female",
+  "role": "driver",
+  "isVerified": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-03T17:32:43.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695952bbebb65c90f9d2c9a3"
+  },
+  "name": "Driver Tom",
+  "email": "tom.driver3@example.com",
+  "phone": "+919876543222",
+  "password": "$2b$10$QBe9hZdyvIU1oDRizcKDAeSVcUKQ2Qc0ruG2iMLlr51pO2sjzGUdS",
+  "age": 45,
+  "gender": "male",
+  "role": "driver",
+  "isVerified": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-03T17:32:43.124Z"
+  },
+  "__v": 0
+}]

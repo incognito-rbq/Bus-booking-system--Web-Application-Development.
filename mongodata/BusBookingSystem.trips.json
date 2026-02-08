@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "696e65403fffa3c843dea34d"
+  },
+  "busId": {
+    "$oid": "696e503d4b25b7e8bdd4f266"
+  },
+  "routeId": {
+    "$oid": "696e604b09c0bb88cfb40418"
+  },
+  "departureTime": {
+    "$date": "2026-01-20T08:00:00.000Z"
+  },
+  "arrivalTime": {
+    "$date": "2026-01-20T12:00:00.000Z"
+  },
+  "pricePerSeat": 25.5,
+  "availableSeats": 45,
+  "status": "scheduled",
+  "createdAt": {
+    "$date": "2026-01-19T17:09:20.171Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-19T17:09:20.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e65f73fffa3c843dea3aa"
+  },
+  "busId": {
+    "$oid": "696e4fa24b25b7e8bdd4f212"
+  },
+  "routeId": {
+    "$oid": "696e605609c0bb88cfb4041d"
+  },
+  "departureTime": {
+    "$date": "2026-01-21T14:00:00.000Z"
+  },
+  "arrivalTime": {
+    "$date": "2026-01-21T18:00:00.000Z"
+  },
+  "pricePerSeat": 30,
+  "availableSeats": 40,
+  "status": "scheduled",
+  "createdAt": {
+    "$date": "2026-01-19T17:12:23.470Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-19T17:12:23.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696e66bc3fffa3c843dea410"
+  },
+  "busId": {
+    "$oid": "696e5417891935bc1fbc518e"
+  },
+  "routeId": {
+    "$oid": "696e606a09c0bb88cfb40428"
+  },
+  "departureTime": {
+    "$date": "2026-01-24T08:00:00.000Z"
+  },
+  "arrivalTime": {
+    "$date": "2026-01-28T12:00:00.000Z"
+  },
+  "pricePerSeat": 35,
+  "availableSeats": 50,
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2026-01-19T17:15:40.480Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-19T17:21:08.792Z"
+  },
+  "__v": 0
+}]
